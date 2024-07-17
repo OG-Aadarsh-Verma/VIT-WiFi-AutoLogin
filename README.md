@@ -1,13 +1,14 @@
 # VIT-WiFi-AutoLogin
 This project aims to provide a simple script that enables the user login into VIT's hostel WiFi without going through the hassle of entering their details everytime.
-
-<br><br>
+<br>
 # Installation
 ## For Linux/Ubuntu/Debian Users
 * Download this [file](https://github.com/OG-Aadarsh-Verma/VIT-WiFi-AutoLogin/blob/main/Ubuntu%20(or%20Debian)/wifi-autologin.sh)
-* Open wifi-autologin.sh in a text editor. <br><br>
-Replace ```{YOUR_USERNAME}``` with your portal login Id and ```{YOUR_PASSWORD}``` with your portal password. <br><br>
-Save the file. <br><br>
+* Open wifi-autologin.sh in a text editor. <br>
+  + Replace ```{YOUR_USERNAME}``` with your portal login Id and ```{YOUR_PASSWORD}``` with your portal password. <br><br>
+![image](https://github.com/user-attachments/assets/36b85644-f9d4-4b80-8ce0-e8240ad846af)
+
+  + Save the file. <br><br>
 * To make sure that this script runs every time you boot your system, you need to follow these steps: 
   + cd into directory of script
   + make script executable:
