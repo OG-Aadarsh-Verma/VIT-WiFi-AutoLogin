@@ -14,8 +14,6 @@ Save the file. <br><br>
   + ```chmod +x wifi-autologin.sh```
 > Note: This step is optional but you will have to execute the script everytime inorder to use it.
 
-
-### Linux:
 #### Using crontab
 
 ```sh
